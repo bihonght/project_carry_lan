@@ -26,3 +26,7 @@ Validation of:
 * Registration Number
 * Student Name
 * Course Code
+* Course Name
+* Credit Hours
+* Semester
+* 
