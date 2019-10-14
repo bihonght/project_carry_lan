@@ -18,7 +18,7 @@ The functions used in this project are described below.
 * ADD Student
 * DELETE Student
 * EDIT Student
-* SAVE Student\
+* SAVE Student
 
 Besides these some Validity Functions are also used in this program which are given following
 
@@ -28,5 +28,4 @@ Validation of:
 * Course Code
 * Course Name
 * Credit Hours
-* Semester
-* 
+* Semester 
