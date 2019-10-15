@@ -34,5 +34,5 @@ Validation of:
 Three data files has been created here so that information obtained during runnning of program can be saved till the next time when the program is runned.
 These files are 
 * Users.txt
-* students.txt
+* Students.txt
 * Courses.txt
