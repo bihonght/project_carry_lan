@@ -31,8 +31,8 @@ Validation of:
 * Semester 
 
 
-Three data files has been created here so that information obtained during runnning of program can be saved till the next time when the program is runned.
-These files are 
+Three data files has been created here so that information obtained during running of the program can be saved until the next time when the program is run. 
+These files are
 * Users.txt
 * Students.txt
 * Courses.txt
